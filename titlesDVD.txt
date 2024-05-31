@@ -1,0 +1,6 @@
+E.T.,Spielberg,7,99,0,7
+Luca,Enrico Casarosa,6,110,3,8
+The Mule,Clint Eastwood,6,115,4,9
+Dr. Seuss' The Grinch,Scott Mosier,6,90,5,10
+Free Guy,Shawn Levy,6,130,2,11
+The Lion King,Roger Allers,6,140,2,12

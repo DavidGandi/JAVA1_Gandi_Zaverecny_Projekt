@@ -1,0 +1,6 @@
+Knizka Mudrosti,Mudry Jan,1234567891011,300,1,1
+To Kill a Mockingbird,Harper Lee,9781234567897,500,3,2
+War and Peace,Leo Tolstoy,7754611466715,620,5,3
+The Sound,William Faulkner,5905746069865,205,7,4
+Nineteen Eighty-Four,George Orwell,3371649728152,320,2,5
+As I Lay Dying,William Faulkner,322988088678,450,1,6
