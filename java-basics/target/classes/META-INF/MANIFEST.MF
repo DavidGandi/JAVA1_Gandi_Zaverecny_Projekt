@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Main-Class: academy.metis.javabasics.lesson18.activity3.exercise1.part1.
+Main-Class: academy.metis.javabasics.lesson19.activity3.exercise1.part1.
  LibraryApp
 

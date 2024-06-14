@@ -1,0 +1,12 @@
+Katka,Novotna,24.01.1990,1
+Jozko,Hrozko,12.08.1999,2
+Marcus,Salazar,11.06.1988,3
+Amanda,Cunningham,10.09.1988,4
+Michael,Jackson,10.01.2004,5
+Danny,Humphrey,31.03.1988,6
+Nicholas,Kim,14.12.1997,7
+Jacqueline,Dickson,18.09.2003,8
+Lisa,Brady,15.07.1994,9
+Matthew,Jensen,06.09.2003,10
+Christian,Gallegos,25.07.1992,11
+Donna,Russell,10.08.2004,12
