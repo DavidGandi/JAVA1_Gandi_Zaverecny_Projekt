@@ -360,7 +360,6 @@ public class RentalsPage {
                     writer.write(rentalRecord.getMemberId() + "," + rentalRecord.getRentedDate() + "," + rentalRecord.getReturnDate() + "," + rentalRecord.getTitleId() + "," + rentalRecord.getTimesProlonged() + "," + rentalRecord.isReturned() + "," + rentalRecord.getRentalRecordId());
                     writer.newLine();
                 }
-                loadRentalRecordsFromFile(RENTALS_FILE_PATH);
                 return true;
         } catch (IOException e) {
             e.printStackTrace();
